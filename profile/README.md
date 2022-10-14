@@ -1,13 +1,9 @@
-## 🚀 Começando
-## Diretório criado para armazenar os códigos desenvolvidos do projeto - SISTEC 📚💻
-Sistec - Higienização de dados.
+## 🚀 Projeto SISTEC 
+## O que é o SISTEC ?
+É o Sistema Nacional de Informações da Educação profissional e tecnológica (Sistec) tem como finalidade servir como mecanismo de registro e divulgação dos dados da educação profissional e tecnológica e de validação de diplomas de cursos de educação profissional técnica de nível médio.
 
-* 📁 Diretório:
-Este diretório chamado "higienizacao", armazena todos os códigos que serão desenvolvidos no decorrer do projeto. 
-
-O que esse diretório possui
-* funcoes_de_auxilio: Pasta com funções de teste<br/> 
-* sistec_funcoes_colab: Arquivos das funções do projeto feito no colab<br/>
+## Qual o objetivo do projeto ?
+O projeto tem como finalidade criar definição de métodos e procedimentos para aplicação de higienização e apresentação de dados do módulo regulação do sistema nacional de informações da educação profissional e tecnológica (Sistec) — SETEC/IFB com parceria da Pró-Reitoria de Pesquisa e Inovação – PRPI.
 
 ## 🤝 Integrantes do Projeto
 
@@ -56,15 +52,11 @@ O que esse diretório possui
   </tr>
 </table>
 
-
-## 🎯 Objetivos
-
-O objetivo desse diretório é organizar os códigos e manter seu histórico de versões.
-
 ## 🛠️ Tecnologias associadas
         
 * Google Colab: Para o desenvolvimento dos códigos.
 * Python: Linguagem utilizada na criação das funções e demais códigos.
+* Power BI: Ferramenta utilizada para criar o painel com informações, após a validação e higienização dos dados.
         
 ## :calendar: Metodologia de Desenvolvimento a ser utilizada
 
