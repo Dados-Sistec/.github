@@ -58,6 +58,6 @@ O projeto tem como finalidade criar definição de métodos e procedimentos para
 * Python: Linguagem utilizada na criação das funções e demais códigos.
 * Power BI: Ferramenta utilizada para criar o painel com informações, após a validação e higienização dos dados.
         
-## :calendar: Metodologia de Desenvolvimento a ser utilizada
+## :calendar: Metodologia de Desenvolvimento a ser utilizada.
 
-* Metodologia Scrum: Utilizando etapas de Sprint/Produto
+* Metodologia Scrum: Utilizando etapas de Sprint/Produto.
