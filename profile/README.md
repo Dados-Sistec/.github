@@ -1,17 +1,17 @@
-## 🚀 Projeto SISTEC 
-## O que é o SISTEC ?
-É o Sistema Nacional de Informações da Educação profissional e tecnológica (Sistec) tem como finalidade servir como mecanismo de registro e divulgação dos dados da educação profissional e tecnológica e de validação de diplomas de cursos de educação profissional técnica de nível médio.
+## 🚀 Projeto Sistec 
+## O que é o Sistec ?
+É o Sistema Nacional de Informações da Educação Profissional e Tecnológica (Sistec). Tem como finalidade servir como mecanismo de registro e divulgação dos dados da educação profissional e tecnológica e de validação de diplomas de cursos de educação profissional técnica de nível médio.
 
 ## Qual o objetivo do projeto ?
-O projeto tem como finalidade criar definição de métodos e procedimentos para aplicação de higienização e apresentação de dados do módulo regulação do sistema nacional de informações da educação profissional e tecnológica (Sistec) — SETEC/IFB com parceria da Pró-Reitoria de Pesquisa e Inovação – PRPI.
+O projeto tem como finalidade a definição de métodos e procedimentos para aplicação de higienização e apresentação de dados do módulo regulação do Sistema Nacional de Informações da Educação Profissional e Tecnológica (Sistec) — SETEC/IFB com parceria da Pró-Reitoria de Pesquisa e Inovação – PRPI.
 
-## 🤝 Integrantes do Projeto
+## 🤝 Integrantes do projeto
 
 <table>
   <tr>
     <td align="center">
       <a href="https://github.com/oliveirafhm">
-        <img src="https://github.com/Dados-Sistec/informacao_integrantes/blob/master/fabio.jpg" heigth="120px;" width="120px;"  alt="Dr.Fábio Henrique"/><br>
+        <img src="https://github.com/Dados-Sistec/informacao_integrantes/blob/master/fabio.jpg" heigth="120px;" width="120px;"  alt="Dr. Fábio Henrique"/><br>
         <sub>
           <b>Dr. Fábio Henrique</b>
         </sub>
@@ -19,33 +19,33 @@ O projeto tem como finalidade criar definição de métodos e procedimentos para
     </td>
     <td align="center">
       <a href="https://github.com/jpfolador">
-        <img src="https://github.com/Dados-Sistec/informacao_integrantes/blob/master/joao.jpg" heigth="120px;" width="120px;" alt="Dr.João Paulo Folador"/><br>
+        <img src="https://github.com/Dados-Sistec/informacao_integrantes/blob/master/joao.jpg" heigth="120px;" width="120px;" alt="Dr. João Paulo Folador"/><br>
         <sub>
-          <b>Dr.João Paulo Folador</b>
+          <b>Dr. João Paulo Folador</b>
         </sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/leandromqrs">
-        <img src="https://github.com/Dados-Sistec/informacao_integrantes/blob/master/nadia.jpeg" heigth="120px;" width="120px;" alt="Dr(a).Nadia Garlet"/><br>
+      <a href="http://lattes.cnpq.br/5578081126925188">
+        <img src="https://github.com/Dados-Sistec/informacao_integrantes/blob/master/nadia.jpeg" heigth="120px;" width="120px;" alt="Ma. Nadia Garlet"/><br>
         <sub>
-          <b>Dr(a). Nadia Garlet</b>
+          <b>Ma. Nadia Garlet</b>
         </sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/camilacarvalhonn">
-        <img src="https://github.com/Dados-Sistec/informacao_integrantes/blob/master/camila.jpg" heigth="120px;" width="120px;" alt="Graduando.Camila Carvalho"/><br>
+        <img src="https://github.com/Dados-Sistec/informacao_integrantes/blob/master/camila.jpg" heigth="120px;" width="120px;" alt="Camila Carvalho"/><br>
         <sub>
-          <b>Graduando. Camila Carvalho</b>
+          <b>Camila Carvalho</b>
         </sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/ninivehelen">
-        <img src="https://github.com/Dados-Sistec/informacao_integrantes/blob/master/ninive.jpeg" heigth="120px;" width="120px;" alt="Graduando.Nínive Helen"/><br>
+        <img src="https://github.com/Dados-Sistec/informacao_integrantes/blob/master/ninive.jpeg" heigth="120px;" width="120px;" alt="Nínive Helen"/><br>
         <sub>
-          <b>Graduando. Nínive Helen</b>
+          <b>Nínive Helen</b>
         </sub>
       </a>
     </td>
